@@ -1,6 +1,6 @@
 Hi there!
 
-Welcome to my zone.I make sporadic commits here on github to track my progress in becoming a holistic Product Manager.
+Welcome to my zone. I make sporadic commits here on github to track my progress in becoming a holistic Product Manager.
 
 I enjoy what I do and I hope you'd find my code and projects interesting too.
 
